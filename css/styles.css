@@ -134,7 +134,7 @@ body {
   color: var(--accent-color);
 }
 .contacts-nav .link:hover .item-icon,
-.contacts-nav .link:focus .item-icon{
+.contacts-nav .link:focus .item-icon {
   fill: var(--accent-color);
 }
 /* Hero*/
@@ -194,7 +194,7 @@ body {
 .section-adv .item {
   width: 270px;
 }
-.section-adv .item:not(:last-child){
+.section-adv .item:not(:last-child) {
   margin-right: 30px;
 }
 .item-block {
@@ -280,7 +280,6 @@ body {
   display: flex;
 }
 
-}
 .section-team .text {
   font-weight: 400;
   font-size: 16px;
@@ -320,7 +319,7 @@ body {
 
   width: 44px;
   height: 44px;
-  fill: #AFB1B8;
+  fill: #afb1b8;
   border-radius: 50%;
 }
 
@@ -354,7 +353,7 @@ body {
 }
 
 .item-link-icon {
-  fill: #AFB1B8;
+  fill: #afb1b8;
 }
 .section-clients .item:hover,
 .section-clients .item:focus {
@@ -362,11 +361,9 @@ body {
   cursor: pointer;
 }
 .section-clients .item:hover .item-link-icon,
-.section-clients .item:focus .item-link-icon{
+.section-clients .item:focus .item-link-icon {
   fill: var(--accent-color);
 }
-
-
 
 /*buttons in hero and in footer*/
 .button {
